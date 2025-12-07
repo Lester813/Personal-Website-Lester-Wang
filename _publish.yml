@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 04d7a08d-531a-4872-8db8-75d39752f791
+      url: https://remarkable-pothos-d30af8.netlify.app
