@@ -21,9 +21,3 @@ Here is my [project 1](/projects/01-project.qmd)
 
 Here is my [project 2](/projects/02-project.qmd)
 
-
-
----
-
-:::project=listing
-:::

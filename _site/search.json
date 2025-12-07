@@ -1,87 +1,31 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 3\n\n[1] 4\n\n\n\nrunif(10)\n\n [1] 0.5193916 0.2871750 0.8395306 0.9112439 0.6903794 0.1335740 0.2522363\n [8] 0.5253886 0.2336891 0.8581399"
-  },
-  {
-    "objectID": "about.html#heading-2",
-    "href": "about.html#heading-2",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 3\n\n[1] 4\n\n\n\nrunif(10)\n\n [1] 0.5193916 0.2871750 0.8395306 0.9112439 0.6903794 0.1335740 0.2522363\n [8] 0.5253886 0.2336891 0.8581399"
-  },
-  {
-    "objectID": "about.html#new-heading-2",
-    "href": "about.html#new-heading-2",
-    "title": "About",
-    "section": "New Heading 2",
-    "text": "New Heading 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Lester Wang",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\nDOWNLOAD CV"
+    "text": "Jiawei (Lester) Wang is a Statistics and Data Science undergraduate at UCLA. With experience spanning data analytics, visualization, and research, Lester has worked on projects in healthcare support and data-driven strategy. He is also engaged in crypto independent research, synthesizing multi-source signals into structured, audit-ready decision logs.\nDOWNLOAD CV"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Lester Wang",
     "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+    "text": "Education\n\nUniversity of California, Los Angeles\nB.S. in Statistics and Data Science (Expected June 2026)\n\n\nBerkeley City College\nAssociate of Science in Math (July 2022 – June 2024)\nGPA: 4.0/4.0"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Lester Wang",
     "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+    "text": "Experience\n\nOKX\nCrypto Independent Researcher\nDec 2024 – Present (Remote)\n\n\nUCLA DataFest 2025\nData Analyst, Visualization & Strategy\nApr 2025 (Remote)\n\n\nGen.G\nData Analytics Intern\nJan 2023 – Mar 2023 (Los Angeles, CA)\n\n\nKaiser Permanente Medical Center\nVolunteer Program Assistant\nNov 2022 – Nov 2023 (Berkeley, CA)\n\n\nBoda Hospital\nVolunteer Hospital Admin Assistant\nJune 2022 – June 2023 (Tianjin, China)"
   },
   {
-    "objectID": "Projects.html",
-    "href": "Projects.html",
-    "title": "Lester Wang",
+    "objectID": "projects/03-project.html",
+    "href": "projects/03-project.html",
+    "title": "Project 3",
     "section": "",
-    "text": "Here is my project 1"
-  },
-  {
-    "objectID": "Projects.html#heading-2",
-    "href": "Projects.html#heading-2",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 3\n\n[1] 4\n\n\n\nrunif(10)\n\n [1] 0.7104018 0.4333870 0.7802038 0.8484967 0.7580887 0.5505890 0.3259682\n [8] 0.7119861 0.7404606 0.5609608"
-  },
-  {
-    "objectID": "Projects.html#new-heading-2",
-    "href": "Projects.html#new-heading-2",
-    "title": "About",
-    "section": "New Heading 2",
-    "text": "New Heading 2"
-  },
-  {
-    "objectID": "Projects.html#project-2",
-    "href": "Projects.html#project-2",
-    "title": "Lester Wang",
-    "section": "Project 2",
-    "text": "Project 2\nHere is my project 2"
-  },
-  {
-    "objectID": "Projects.html#project-1",
-    "href": "Projects.html#project-1",
-    "title": "Lester Wang",
-    "section": "",
-    "text": "Here is my project 1"
-  },
-  {
-    "objectID": "projects/01-project.html",
-    "href": "projects/01-project.html",
-    "title": "Project 1",
-    "section": "",
-    "text": "Some comlpicated statistics project"
+    "text": "Some comlpicated statistics project\n\nrnorm(100) |&gt; hist()\n\n\n\n\n\n\n\nrnorm(100) |&gt;mean()\n\n[1] 0.08763916"
   },
   {
     "objectID": "projects/02-project.html",
@@ -91,10 +35,31 @@
     "text": "Some comlpicated statistics project\n\nrnorm(100) |&gt; hist()"
   },
   {
-    "objectID": "projects/03-project.html",
-    "href": "projects/03-project.html",
-    "title": "Project 3",
+    "objectID": "projects/01-project.html",
+    "href": "projects/01-project.html",
+    "title": "Project 1",
     "section": "",
-    "text": "Some comlpicated statistics project\n\nrnorm(100) |&gt; hist()\n\n\n\n\n\n\n\nrnorm(100) |&gt;mean()\n\n[1] 0.08763916"
+    "text": "Some comlpicated statistics project"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Lester Wang",
+    "section": "",
+    "text": "Here is my project 1"
+  },
+  {
+    "objectID": "Projects.html#project-1",
+    "href": "Projects.html#project-1",
+    "title": "Lester Wang",
+    "section": "",
+    "text": "Here is my project 1"
+  },
+  {
+    "objectID": "Projects.html#project-2",
+    "href": "Projects.html#project-2",
+    "title": "Lester Wang",
+    "section": "Project 2",
+    "text": "Project 2\nHere is my project 2"
   }
 ]

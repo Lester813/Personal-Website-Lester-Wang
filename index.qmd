@@ -13,20 +13,46 @@ about:
 toc: false
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Jiawei (Lester) Wang is a Statistics and Data Science undergraduate at UCLA. With experience spanning data analytics, visualization, and research, Lester has worked on projects in healthcare support and data-driven strategy. He is also engaged in crypto independent research, synthesizing multi-source signals into structured, audit-ready decision logs.
+
 
 DOWNLOAD [CV](/cv.pdf)
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+#### University of California, Los Angeles
 
-Macalester College | St. Paul, MN
-B.A in Economics | Sept 2007 - June 2011
+B.S. in Statistics and Data Science (Expected June 2026)
+
+#### Berkeley City College
+
+Associate of Science in Math (July 2022 – June 2024)
+
+GPA: 4.0/4.0
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+### *OKX*
+Crypto Independent Researcher
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+Dec 2024 – Present  (Remote)
+
+### *UCLA DataFest 2025*
+Data Analyst, Visualization & Strategy 
+
+Apr 2025 (Remote)
+
+### *Gen.G*
+Data Analytics Intern 
+
+Jan 2023 – Mar 2023 (Los Angeles, CA)
+
+### *Kaiser Permanente Medical Center*
+Volunteer Program Assistant
+
+Nov 2022 – Nov 2023 (Berkeley, CA)
+
+### *Boda Hospital*
+Volunteer Hospital Admin Assistant
+
+June 2022 – June 2023 (Tianjin, China)
