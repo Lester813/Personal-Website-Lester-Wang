@@ -1,11 +1,15 @@
 ---
-title: "Project 2"
+title: "UCLA DataFest 2025 | Data Analyst, Visualization & Strategy |"
+image: images/df6.jpg
 ---
 
+![](images/df1.jpg){width=48%}
+![](images/df2.jpg){width=48%}
+![](images/df3.jpg){width=48%}
+![](images/df4.jpg){width=48%}
+![](images/df5.jpg){width=48%}
 
-Some comlpicated statistics project
-
-```{r}
-rnorm(100) |> hist()
-```
+####	•	Analyzed COVID-19 impacts on contract volume and firms’ geography to gauge recovery
+####	•	Built R/tidyverse pipelines and produced time-series and geospatial visualizations
+####	•	Flagged growth regions and delivered data-backed location expansion recommendations
 

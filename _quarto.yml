@@ -1,6 +1,7 @@
 project:
   type: website
-
+  resources: 
+    - cv.pdf
 website:
   title: "Lester Wang"
   navbar:

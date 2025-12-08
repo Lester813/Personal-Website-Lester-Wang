@@ -8,8 +8,10 @@ about:
       text: Github
       href: https://github.com/Lester813
     - text: Email
-      url: "J4267349@g.ucla.edu"
+      url: "mailto:J4267349@g.ucla.edu"
       icon: inbox-fill
+    - text: RESUME
+      url: "cv.pdf"
 toc: false
 ---
 

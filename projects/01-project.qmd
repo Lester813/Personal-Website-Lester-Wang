@@ -1,8 +1,12 @@
 ---
-title: "Project 1"
+title: "| OKX | Crypto Independent Researcher |"
+image: images/ok2.jpg
 ---
+![](images/ok1.jpg){width=48%}
+![](images/ok2.jpg){width=48%}
 
-
-Some comlpicated statistics project
-
+#### •	Synthesize signals from news, community posts, price-volume trends, and whale wallet flows
+#### •	Cross-verify sources, tag provenance, and maintain audit-ready records
+#### •	Keep a structured decision log of entries, exits, assumptions, and uncertainty notes
+#### •	Run post-trade reviews to refine criteria and enforce risk limits
 

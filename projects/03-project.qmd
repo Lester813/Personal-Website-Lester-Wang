@@ -1,11 +1,8 @@
 ---
-title: "Project 3"
+title: "| Gen.G | Data Analytics Intern |"
+image: images/gg1.jpg
 ---
-
-
-Some comlpicated statistics project
-
-```{r}
-rnorm(100) |> hist()
-rnorm(100) |>mean()
-```
+####	•	Synthesized data from online products and tournaments to inform strategy and updates
+####	•	Used SQL and Google Analytics to analyze user engagement and website functionality
+####	•	Designed databases using Metabase and translated them into actionable SQL workflows
+####	•	Conducted user analysis to optimize web content and increase user interest

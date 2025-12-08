@@ -1,5 +1,4 @@
 ---
-title: Projects
 toc: false
 listing:
   - id: project-listing
@@ -8,17 +7,17 @@ listing:
     sort: false
     sort-ui: false
     filter-ui: true
-    type: table
+    type: grid
     fields: 
       - title
+      - image
+      - subtitle
     categories: false
 ---
 
-## Project 1
+### This page highlights selected projects and experiences across data analytics, visualization, strategy, and crypto research. Click each card to see the context, methods, and key takeaways.
 
-Here is my [project 1](/projects/01-project.qmd)
 
-## Project 2
-
-Here is my [project 2](/projects/02-project.qmd)
+:::project=listing
+:::
 

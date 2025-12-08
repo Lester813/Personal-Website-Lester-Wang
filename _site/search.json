@@ -21,45 +21,45 @@
     "text": "Experience\n\nOKX\nCrypto Independent Researcher\nDec 2024 – Present (Remote)\n\n\nUCLA DataFest 2025\nData Analyst, Visualization & Strategy\nApr 2025 (Remote)\n\n\nGen.G\nData Analytics Intern\nJan 2023 – Mar 2023 (Los Angeles, CA)\n\n\nKaiser Permanente Medical Center\nVolunteer Program Assistant\nNov 2022 – Nov 2023 (Berkeley, CA)\n\n\nBoda Hospital\nVolunteer Hospital Admin Assistant\nJune 2022 – June 2023 (Tianjin, China)"
   },
   {
+    "objectID": "projects/04-projects.html",
+    "href": "projects/04-projects.html",
+    "title": "| Kaiser Permanente Medical Center | Volunteer Program Assistant |",
+    "section": "",
+    "text": "• Provided empathetic support via Zoom to inspire patients struggling with mental health\n\n\n• Coordinated with staff to enhance patient care and support group logistics\n\n\n• Communicated with patients regularly with cultural sensitivity and patience"
+  },
+  {
     "objectID": "projects/03-project.html",
     "href": "projects/03-project.html",
-    "title": "Project 3",
+    "title": "| Gen.G | Data Analytics Intern |",
     "section": "",
-    "text": "Some comlpicated statistics project\n\nrnorm(100) |&gt; hist()\n\n\n\n\n\n\n\nrnorm(100) |&gt;mean()\n\n[1] 0.08763916"
+    "text": "• Synthesized data from online products and tournaments to inform strategy and updates\n\n\n• Used SQL and Google Analytics to analyze user engagement and website functionality\n\n\n• Designed databases using Metabase and translated them into actionable SQL workflows\n\n\n• Conducted user analysis to optimize web content and increase user interest"
   },
   {
     "objectID": "projects/02-project.html",
     "href": "projects/02-project.html",
-    "title": "Project 2",
+    "title": "UCLA DataFest 2025 | Data Analyst, Visualization & Strategy |",
     "section": "",
-    "text": "Some comlpicated statistics project\n\nrnorm(100) |&gt; hist()"
+    "text": "• Analyzed COVID-19 impacts on contract volume and firms’ geography to gauge recovery\n\n\n• Built R/tidyverse pipelines and produced time-series and geospatial visualizations\n\n\n• Flagged growth regions and delivered data-backed location expansion recommendations"
   },
   {
     "objectID": "projects/01-project.html",
     "href": "projects/01-project.html",
-    "title": "Project 1",
+    "title": "| OKX | Crypto Independent Researcher |",
     "section": "",
-    "text": "Some comlpicated statistics project"
+    "text": "• Synthesize signals from news, community posts, price-volume trends, and whale wallet flows\n\n\n• Cross-verify sources, tag provenance, and maintain audit-ready records\n\n\n• Keep a structured decision log of entries, exits, assumptions, and uncertainty notes\n\n\n• Run post-trade reviews to refine criteria and enforce risk limits"
   },
   {
-    "objectID": "Projects.html",
-    "href": "Projects.html",
-    "title": "Projects",
+    "objectID": "projects/05-projects.html",
+    "href": "projects/05-projects.html",
+    "title": "| Boda Hospital | Volunteer Hospital Admin Assistant |",
     "section": "",
-    "text": "Here is my project 1"
+    "text": "• Coordinated educational events and patient support groups\n\n\n• Served as a liaison between patients, families, and healthcare providers\n\n\n• Offered support to leukemia patients and families and guided access to resources"
   },
   {
-    "objectID": "Projects.html#project-1",
-    "href": "Projects.html#project-1",
-    "title": "Projects",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Lester Wang",
     "section": "",
-    "text": "Here is my project 1"
-  },
-  {
-    "objectID": "Projects.html#project-2",
-    "href": "Projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2\nHere is my project 2"
+    "text": "This page highlights selected projects and experiences across data analytics, visualization, strategy, and crypto research. Click each card to see the context, methods, and key takeaways.\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nOKX | Crypto Independent Researcher |\n\n\n\n\n\n\n\n\n\n\n\n\nUCLA DataFest 2025 | Data Analyst, Visualization & Strategy |\n\n\n\n\n\n\n\n\n\n\n\n\n\nGen.G | Data Analytics Intern |\n\n\n\n\n\n\n\n\n\n\n\n\nKaiser Permanente Medical Center | Volunteer Program Assistant |\n\n\n\n\n\n\n\n\n\n\nBoda Hospital | Volunteer Hospital Admin Assistant |\n\n\n\n\n:::\n\nNo matching items\n\n:::\n:::"
   }
 ]
